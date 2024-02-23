@@ -1,4 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 
 body{
     background: linear-gradient(navy,white,gray);
+}
+
+li{
+    font-family: Shadows Into Light;
 }
