@@ -1,3 +1,4 @@
+
 h1{
     color: #ff0000;
 }
@@ -9,4 +10,10 @@ h1{
     --botao-ativo: #3A375E;
     --botao-inativo: #3a375e80;
     --texto-fundo: #3a375e4d;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    
 }
